@@ -35,6 +35,7 @@
 #	-QupZilla
 #	-SeaMonkey
 #	-Vivaldi
+#	-Yandex (beta)
 
 
 
